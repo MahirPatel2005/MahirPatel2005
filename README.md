@@ -1,5 +1,3 @@
-<p align="center"><img width="80%" alt="Hello, I'm Mahir. I am an student!" src="https://media.tenor.com/M2uvVelvLLQAAAAC/header.gif" /></p>
-
 <h1 align="center">Hi 👋, I'm Mahir</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <p align="center"><img align="c" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"></p>

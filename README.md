@@ -78,12 +78,12 @@ A **Full-Stack Developer** from 🇮🇳 India who loves crafting clean, perform
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Live |
-|---------|-------------|------------|------|
-| **APIHub** | Centralized platform to discover & explore public APIs with search, filtering & detailed endpoint views | React · Tailwind CSS · REST APIs | [▶ Vercel](https://github.com/MahirPatel2005) |
-| **Numble** | Browser-based multiplayer number guessing game with hints & attempt tracking | HTML · CSS · JavaScript | [▶ Netlify](https://github.com/MahirPatel2005) |
-| **Slippy Clone** | Pixel-accurate frontend UI clone with responsive design across all breakpoints | HTML · CSS · JavaScript | [▶ Netlify](https://github.com/MahirPatel2005) |
-| **YouSecure** | UI/UX design project with wireframes, high-fidelity screens & interactive prototypes | Figma | — |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **APIHub** | Centralized platform to discover & explore public APIs with search, filtering & detailed endpoint views | React · Tailwind CSS · REST APIs |
+| **Numble** | Browser-based multiplayer number guessing game with hints & attempt tracking | HTML · CSS · JavaScript |
+| **Slippy Clone** | Pixel-accurate frontend UI clone with responsive design across all breakpoints | HTML · CSS · JavaScript |
+| **YouSecure** | UI/UX design project with wireframes, high-fidelity screens & interactive prototypes | Figma |
 
 
 ---
